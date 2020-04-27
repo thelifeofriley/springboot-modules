@@ -1,0 +1,6 @@
+[submodule "module-domain"]
+	path = module-domain
+	url = https://github.com/thelifeofriley/module-domain
+[submodule "module-web"]
+	path = module-web
+	url = https://github.com/thelifeofriley/module-web.git
